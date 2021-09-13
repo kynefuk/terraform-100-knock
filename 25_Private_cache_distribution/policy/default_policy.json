@@ -1,0 +1,1 @@
+{"Statement":[{"Resource":"https://<your_cloudfront>.cloudfront.net/*","Condition":{"DateLessThan":{"AWS:EpochTime":1790937200}}}]}
